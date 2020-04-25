@@ -1,18 +1,18 @@
 class SchoolClassesController < ApplicationController
 
   def new
-  end 
+  end
 
   def create
   end
 
   def show
-  end 
-
-  def edit 
   end
 
-  def update 
+  def edit
+  end
+
+  def update
   end
 
 end
